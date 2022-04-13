@@ -1,0 +1,8 @@
+1. Create a new pivot table from "data" table
+2. Use Year on rows
+3. Put into values
+	- sum of PRCP in each year
+	- max of prcp in each year
+	- difference of prcp in each year
+	from previous year
+4. Create a slicer on "Name" column
