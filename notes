@@ -1,3 +1,7 @@
+
+previous year:=CALCULATE(SUM([Value]);filter('skoleni-data';'skoleni-data'[TIME] = max('skoleni-data'[TIME]) - max(years[years back])))
+
+
 About Power Query
 https://support.microsoft.com/en-us/office/about-power-query-in-excel-7104fbee-9e62-4cb9-a02e-5bfb1a6c536a
 
